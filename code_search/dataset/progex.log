@@ -1,0 +1,20 @@
+======= LOG CREATED on Wed 2022/Feb/16 22:20:51:812 =======
+
+PROGEX (Program Graph Extractor)  [ v3.4.5 ]
+Visit project website @ https://github.com/ghaffarian/progex
+
+PROGEX execution config:
+  Language = Java
+  node level = block
+  Output format = DOT
+  Output directory = /home/t-enshengshi/codesearchnet/split_ast/all/
+  Analysis types = [AST]
+  Input paths = 
+        /home/t-enshengshi/codesearchnet/java_files/all
+
+
+# Java source files = 205270
+
+
+Abstract Syntax Analysis
+========================
